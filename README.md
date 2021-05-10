@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreshyy
 - 👀 I’m interested in Web development as well as Machine Learning
-- 🌱 I’m currently learning Javascript , Python and databases.
+- 🌱 I’m currently learning Data Structures, Javascript , Python and SQL.
 - 💞️ I’m looking to collaborate on projects and internships.
 - 📫 You can reach to me at shreshthachourasia26@gmail.com .
 
